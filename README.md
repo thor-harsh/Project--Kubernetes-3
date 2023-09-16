@@ -8,7 +8,7 @@
   a)users-api is connected to auth-api and users api is exposed to world using service but auth-api is not accessible outside the world.
   <br/>
   b)task-api can communicate with auth-api and auth-api is also accessbile outside the world.
-  <br/>
+  <br/><br/>
   Go through all the yaml files and docker compose file to get to know more.
 </table>
 
